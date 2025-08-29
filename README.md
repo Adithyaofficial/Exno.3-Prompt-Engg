@@ -246,7 +246,7 @@ These are ready-to-use samples — you can just replace details with your own co
 now here are my inputs → Audience: [age : 19-24, group, location, concerns].
 Cultural factors: [Languages: Tamil,Telugu & Malayalam].
 Channels: [Whatsapp Groups and Communities, Reddit, X]
-Local issue: Choose your own
+Local issue: Choose your own.      
 Using the same format and examples you gave earlier, create a campaign for this audience
 
 # ChatGPT said:
